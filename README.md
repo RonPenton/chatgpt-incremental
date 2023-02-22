@@ -11,3 +11,10 @@ Followup commands:
 * I think you need to use react-dom
 
 All I did was copy the code and assemble it into a file structure. 
+
+Update #1:
+
+* link to react from cdn instead
+* show me the updated webpack.config.js
+* update the webpack config so that react and react-dom are not included in the bundle
+* This gives an error about @babel/preset-react
